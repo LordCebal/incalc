@@ -1,0 +1,9 @@
+{
+    "name": "IN-Calc",
+    "short_name": "INCalc",
+    "start_url": "/incalc/",
+    "scope": "/incalc/",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#02427d"
+}
